@@ -13,7 +13,7 @@
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-00-000150
-    Documentation   : https://stigaview.com/products/win11/v1r5/WN11-CC-000150/
+    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000150/
 
 .TESTED ON
     Date(s) Tested  : 
