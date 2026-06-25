@@ -38,4 +38,5 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | [`WN11-CC-000385`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000385.ps1) | Access Control | Blocks Windows Ink Workspace access above the lock screen |
 | [`WN11-SO-000100`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000100.ps1) | Network Security | Enforces SMB packet signing to prevent man-in-the-middle attacks |
 | [`WN11-SO-000230`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000230.ps1) | Cryptography | Enforces FIPS-compliant algorithms for encryption, hashing, and signing |
-| [`WN11-00-000165`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000165.ps1) | Network Security | Disables legacy SMBv1 protocol to eliminate known vulnerabilities. |
+| [`WN11-00-000165`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000165.ps1) | Network Security | Disables legacy SMBv1 protocol to eliminate known vulnerabilities |
+| [`WN11-00-000126`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000126.ps1) | Access Control | Blocks consumer Microsoft account authentication on enterprise systems |
