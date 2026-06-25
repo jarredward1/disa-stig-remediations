@@ -24,7 +24,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN11-CC-000150.ps1 
+    PS C:\> .\STIG-ID-WN11-00-000150.ps1 
 #>
 
 # Enable Structured Exception Handling Overwrite Protection (SEHOP)
