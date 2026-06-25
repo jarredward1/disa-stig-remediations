@@ -1,4 +1,4 @@
-# 🛡️ DISA STIG Remediations for Windows 11
+# DISA STIG Remediations for Windows 11
 
 > **Automate compliance. Eliminate drift. Harden with confidence.**
 
