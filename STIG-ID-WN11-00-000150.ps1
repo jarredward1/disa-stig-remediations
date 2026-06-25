@@ -27,7 +27,7 @@
     PS C:\> .\STIG-ID-WN11-CC-000150.ps1 
 #>
 
-Enable Structured Exception Handling Overwrite Protection (SEHOP)
+# Enable Structured Exception Handling Overwrite Protection (SEHOP)
 $RegPath = "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\kernel"
 
 Set-ItemProperty -Path $RegPath -Name "DisableExceptionChainValidation" -Value 0 -Type DWord -Force
