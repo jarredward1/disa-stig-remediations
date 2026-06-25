@@ -12,9 +12,9 @@ The **Defense Information Systems Agency (DISA)** publishes Security Technical I
 
 This repository provides **individual PowerShell scripts**, each mapped 1:1 to a specific STIG ID, that:
 
-1. Apply the required registry change automatically
-2. Immediately verify the value was written correctly
-3. Report a clear `PASS ✅` or `FAIL ❌` with color-coded output
+1. Applies the required registry change automatically
+2. Immediately verifies the value was written correctly
+3. Reports a clear `PASS ✅` or `FAIL ❌` with color-coded output
 
 No frameworks required. No dependencies. Just PowerShell and intent.
 
