@@ -35,3 +35,4 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | [`WN11-00-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000150.ps1) | General | Enables SEHOP (Structured Exception Handling Overwrite Protection) |
 | [`WN11-CC-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000150.ps1) | Component Config | Requires password on resume from sleep (AC/plugged-in) |
 | [`WN11-SO-000265`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000265.ps1) | Security Options | Restricts UAC elevation to apps installed in secure locations only |
+| [`WN11-CC-000385`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000385.ps1) | Access Control | Blocks Windows Ink Workspace access above the lock screen |
