@@ -40,3 +40,4 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | [`WN11-SO-000230`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000230.ps1) | Cryptography | Enforces FIPS-compliant algorithms for encryption, hashing, and signing |
 | [`WN11-00-000165`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000165.ps1) | Network Security | Disables legacy SMBv1 protocol to eliminate known vulnerabilities |
 | [`WN11-00-000126`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000126.ps1) | Access Control | Blocks consumer Microsoft account authentication on enterprise systems |
+| [`WN11-UC-000020`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000020.ps1) | Component Configuration | BPreserves zone origin info on file attachments for risk assessment |
