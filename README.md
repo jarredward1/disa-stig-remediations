@@ -49,3 +49,11 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | [`WN11-SO-000265`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000265.ps1) | Security Options | Restricts UAC elevation to apps installed in secure locations only |
 | [`WN11-UC-000015`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000015.ps1) | Component Configuration | Disables toast notifications on the lock screen |
 | [`WN11-UC-000020`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000020.ps1) | Component Configuration | Preserves zone origin info on file attachments for risk assessment |
+
+---
+
+## 👤 Author
+
+**Jarred Ward**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jarredward1/)
