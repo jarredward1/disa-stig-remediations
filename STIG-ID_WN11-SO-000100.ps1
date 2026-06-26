@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Forces the Windows SMB client to always digitally sign communications, preventing 
+    This PowerShell script forces the Windows SMB client to always digitally sign communications, preventing 
     man-in-the-middle attacks by ensuring it only talks to servers that also perform packet signing.
     
 .NOTES
