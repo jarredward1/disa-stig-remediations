@@ -33,7 +33,7 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | STIG ID | Category | What It Fixes |
 |---|---|---|
 | [`WN11-00-000126`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000126.ps1) | Access Control | Blocks consumer Microsoft account authentication on enterprise systems |
-| [`WN11-00-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000150.ps1) | General | Enables SEHOP (Structured Exception Handling Overwrite Protection) |
+| [`WN11-00-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000150.ps1) | Exploit Protection | Enables SEHOP (Structured Exception Handling Overwrite Protection) |
 | [`WN11-00-000165`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000165.ps1) | Network Security | Disables legacy SMBv1 protocol to eliminate known vulnerabilities |
 | [`WN11-CC-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000150.ps1) | Component Config | Requires password on resume from sleep (AC/plugged-in) |
 | [`WN11-CC-000385`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000385.ps1) | Access Control | Blocks Windows Ink Workspace access above the lock screen |
