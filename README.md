@@ -2,7 +2,14 @@
 
 > **Automate compliance. Eliminate drift. Harden with confidence.**
 
+![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D4?logo=windows)
+![Language](https://img.shields.io/badge/Language-PowerShell-5391FE?logo=powershell)
+![STIG](https://img.shields.io/badge/Framework-DISA%20STIG-red)
+![Scripts](https://img.shields.io/badge/Scripts-10-brightgreen)
+
 A growing collection of standalone PowerShell scripts that automatically detect and remediate DISA STIG (Security Technical Implementation Guide) findings on **Windows 11** endpoints. Each script is self-contained, self-verifying, and built for real-world ops.
+
+> ⚠️ Always test in a non-production environment first. Some scripts require a reboot or may affect legacy device compatibility.
 
 ---
 
@@ -35,10 +42,10 @@ Whether you're running a one-time audit remediation, deploying via RMM, integrat
 | [`WN11-00-000126`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000126.ps1) | Access Control | Blocks consumer Microsoft account authentication on enterprise systems |
 | [`WN11-00-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000150.ps1) | Exploit Protection | Enables SEHOP (Structured Exception Handling Overwrite Protection) |
 | [`WN11-00-000165`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-00-000165.ps1) | Network Security | Disables legacy SMBv1 protocol to eliminate known vulnerabilities |
-| [`WN11-CC-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000150.ps1) | Component Config | Requires password on resume from sleep (AC/plugged-in) |
+| [`WN11-CC-000150`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000150.ps1) | Component Configuration | Requires password on resume from sleep (AC/plugged-in) |
 | [`WN11-CC-000385`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-CC-000385.ps1) | Access Control | Blocks Windows Ink Workspace access above the lock screen |
 | [`WN11-SO-000100`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000100.ps1) | Network Security | Enforces SMB packet signing to prevent man-in-the-middle attacks |
 | [`WN11-SO-000230`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000230.ps1) | Cryptography | Enforces FIPS-compliant algorithms for encryption, hashing, and signing |
 | [`WN11-SO-000265`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-SO-000265.ps1) | Security Options | Restricts UAC elevation to apps installed in secure locations only |
-| [`WN11-UC-000015 `](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000015.ps1) | Component Configuration | Disables toast notifications on the lock screen. |
-| [`WN11-UC-000020`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000020.ps1) | Component Configuration | BPreserves zone origin info on file attachments for risk assessment |
+| [`WN11-UC-000015`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000015.ps1) | Component Configuration | Disables toast notifications on the lock screen |
+| [`WN11-UC-000020`](https://github.com/jarredward1/disa-stig-remediations/blob/main/STIG-ID_WN11-UC-000020.ps1) | Component Configuration | Preserves zone origin info on file attachments for risk assessment |
