@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
     This PowerShell script forces Windows to require a password whenever the computer wakes from 
-    sleep while plugged in, by setting the corresponding registry value to enabled.
+    sleep while plugged in, by setting the corresponding registry value to enabled
     
 .NOTES
     Author          : Jarred Ward
