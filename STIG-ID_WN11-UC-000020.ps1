@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Ensures Windows preserves zone-of-origin information (internet, intranet, local, restricted) on file attachments 
+    This PowerShell script ensures Windows preserves zone-of-origin information (internet, intranet, local, restricted) on file attachments 
     so the system can properly assess and warn users about the risk level of files they open.
     
 .NOTES
