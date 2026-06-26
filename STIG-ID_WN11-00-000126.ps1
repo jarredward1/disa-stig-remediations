@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Blocks users from authenticating to applications on the system using personal consumer 
+    This PowerShell script blocks users from authenticating to applications on the system using personal consumer 
     Microsoft accounts, ensuring only authorized organizational accounts are used on enterprise machines.
     
 .NOTES
